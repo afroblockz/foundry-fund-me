@@ -1,6 +1,4 @@
-# Foundry Fund Me
-
-*[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)*
+# ⭐️ Foundry Fund Me
 
 - [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#What-is-Fund-me)
@@ -18,7 +16,13 @@
 - [Does this work](#Does-this-work)
 
 
+# foundry fund me
+
+The front-end url will go here when it is available
+
 # What is Fund me
+
+This is a crowd sourcing application, that can receive donations in various crypto denominations
 
 ## Requirements
 
